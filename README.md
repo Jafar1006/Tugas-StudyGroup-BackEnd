@@ -1,4 +1,4 @@
-# Tugas week 1 GDGOC
+# Tugas week 2 GDGOC
 
-Tugas pengenalan pemrograman JavaScript.
-Tipe data, array, looping, etc.
+Tugas promise dan async-await.
+
